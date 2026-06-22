@@ -1,13 +1,13 @@
 ---
-title: "Modelo Projeto - Quarto"
+title: "Engajamento e Sentimento dos Estudantes de iADM turma 4"
 
 # Nome do documento PDF gerado
-output-file: titulo do projeto
+output-file: pfe_relatorio
 ---
 
 ```{r}
 #| include: false
-source("rdocs/source/packages.R")
+
 ```
 
 # Introdução
