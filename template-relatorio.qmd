@@ -110,3 +110,7 @@ A fim de verificar o quanto cada aluno das equipes em iADM são ouvidos pelos ou
 Somente as equipes 5 (3,33), 6 (3,67) e 3 (4,33) apresentaram notas diferentes da máxima, com todos os demais marcando em média que conseguem ser ouvidos pelos integrantes do grupo de maneira bastante satisfatória.
 
 # Conclusões
+
+Como pode ser observado, os alunos apresentaram valores bastante individuais com base em cada uma das equipes, mostrando como cada um consegue aproveitar a matéria de maneiras diferentes.
+
+Esse comportamento pode ser bastante explicado e enfatizado pela Escola Comportamental de pensamento de Adminstração, esta que tem como foco o próprio trabalhador (que nesse estudo são representados pelos estudantes) de modo que possa ser analisado aspectos mais individuais e humanos de cada um.
