@@ -7,18 +7,6 @@ output-file: "Nome do alocado - análise 7 e 8"
 source("rdocs/consultor4.R")
 ```
 
-```{r}
-# Rodar apenas uma vez na vida!
-## Instalando o tinytex(pacote apenas)
-### CRAN version
-install.packages('tinytex')
-
-
-## Baixando o tinytex
-library(tinytex)
-tinytex::install_tinytex()
-```
-
 # Objetivo
 
 Esse template foi criado para o alocado conseguir observar como ficaria sua análise o arquivo principal. É daqui que o gerente de projetos irá copiar a análise e inserir no documento principal que gerará o relatório estatístico.
@@ -27,7 +15,51 @@ Esse template foi criado para o alocado conseguir observar como ficaria sua aná
 
 ## Análise 7
 
+![Exemplo de boxplot](images/a1.png){fig-align="center"}
+
 ## Análise 8
+
+![Exemplo de boxplot](images/a2.png){fig-align="center"}
+
+
+## Análise 8
+
+![Exemplo de boxplot](images/a3.png){fig-align="center"}
+
+
+
+## Análise 8
+
+![Exemplo de boxplot](images/a4.png){fig-align="center"}
+
+
+
+
+
+## Análise 8
+
+![Exemplo de boxplot](images/a5.png){fig-align="center"}
+
+
+
+
+## Análise 8
+
+![Exemplo de boxplot](images/a6.png){fig-align="center"}
+
+
+
+
+## Análise 8
+
+![Exemplo de boxplot](images/a7.png){fig-align="center"}
+
+
+
+
+## Análise 8
+
+![Exemplo de boxplot](images/a8.png){fig-align="center"}
 
 ```{r}
 #| label: fig-
